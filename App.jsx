@@ -19,7 +19,7 @@ export default function App() {
             component={ListFoodCategries}
             options={{title:"CategorieDetails"}}
            />
-
+            
           
       </Stack.Navigator>
       

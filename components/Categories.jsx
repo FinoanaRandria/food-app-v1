@@ -77,6 +77,11 @@ const Categories = ({ navigation }) => {
                     />
                     <Button title="search" style={{width: 20}} onPress={()=>{searchFoods()}}/>
              </View>
+
+                <View>
+                    sear
+                </View>
+                     
       </ScrollView>
     </View>
   );
